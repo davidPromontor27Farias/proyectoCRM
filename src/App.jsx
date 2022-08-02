@@ -9,7 +9,7 @@ import VerCliente from './components/VerCliente';
 
 function App() {
   
-
+  
 
 
   return (
